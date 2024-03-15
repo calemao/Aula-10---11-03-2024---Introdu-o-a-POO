@@ -1,3 +1,6 @@
+Aula 10 Dia 11/03/2024 -- Introducao a POO
+
+
 Minha aula de introdução à Programação Orientada a Objetos (POO) ministrada pelo Professor Rômulo da Costa Delmondes foi incrivelmente gratificante. Desde o momento em que adentrei a sala de aula, percebi que seria uma experiência enriquecedora. O Prof. Rômulo, com sua paixão pela matéria, conseguiu transmitir conceitos complexos de forma acessível e interessante.
 
 Durante a aula, fomos guiados por uma atividade prática que nos desafiou a aplicar os conceitos teóricos que estávamos aprendendo. Sob a orientação do professor, mergulhamos na criação de classes, objetos e métodos, compreendendo como eles interagem para resolver problemas de maneira eficiente e organizada.
